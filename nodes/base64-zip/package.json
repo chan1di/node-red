@@ -1,0 +1,11 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "\"base64zip\"",
+  "main": "basezip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
